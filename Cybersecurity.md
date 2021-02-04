@@ -12,3 +12,7 @@ https://conf.splunk.com/session/2015/conf2015_Jbrodsky_Splunk_SecurityComplinace
 ### Elastalert
 
 https://github.com/Yelp/elastalert/issues/1108
+
+### Datasets
+
+http://www.secrepo.com/
