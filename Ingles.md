@@ -1,6 +1,6 @@
 # Inglés
 
-##Method
+## Method
 
   - Estudia TODOS los días. No vale decir que como es fin de semana no quieres hacerlo. El tiempo depende del que cada uno considere. Quizás no tienes una hora a diario (aunque sería lo ideal) pero si media, o puedes sacar un poco de tiempo entre tareas. Es esencial coger la rutina de estudiar a diario, el hábito es lo más importante.
   - Disfruta de lo que haces. Quizás odias la gramática pero te gusta leer. Es otra manera de aprender gramática. Quizás odias hacer ejercicios de listening pero te gusta ver series. A veces hay que sacrificarse y estudiar algo que no te gusta, pero todo tiene un precio.
