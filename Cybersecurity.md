@@ -16,3 +16,8 @@ https://github.com/Yelp/elastalert/issues/1108
 ### Datasets
 
 http://www.secrepo.com/
+
+
+### Powershell
+
+https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993
