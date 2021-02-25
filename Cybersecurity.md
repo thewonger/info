@@ -21,3 +21,9 @@ http://www.secrepo.com/
 ### Powershell
 
 https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993
+
+### Threat Hunting
+
+https://my.ine.com/path/57ec9bc2-be17-4f51-91b9-7ed250be8596
+
+https://elearnsecurity.com/product/ecthpv2-certification/
