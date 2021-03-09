@@ -17,6 +17,8 @@ https://github.com/Yelp/elastalert/issues/1108
 
 http://www.secrepo.com/
 
+https://github.com/shramos/Awesome-Cybersecurity-Datasets
+
 
 ### Powershell
 
