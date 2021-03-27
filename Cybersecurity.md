@@ -5,6 +5,8 @@
 
 https://hackingthe.cloud/
 
+https://www.pentesteracademy.com/
+
 ### Sysmon
 
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
