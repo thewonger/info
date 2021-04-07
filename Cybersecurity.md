@@ -48,7 +48,7 @@ https://gist.github.com/nopslider/452b652850cf359c3738
 
 https://www.youtube.com/watch?v=tWjGwdZ59w4&ab_channel=NGINX%2CInc
 
-##OT
+## OT
 
 https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
 
