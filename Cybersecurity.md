@@ -48,5 +48,14 @@ https://gist.github.com/nopslider/452b652850cf359c3738
 
 https://www.youtube.com/watch?v=tWjGwdZ59w4&ab_channel=NGINX%2CInc
 
+##OT
+
+https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
+
+https://www.reddit.com/r/netsecstudents/comments/dxmi0s/any_good_resources_for_ot_security_basics/
+
+https://www.giac.org/certification/global-industrial-cyber-security-professional-gicsp
+
+https://www.isa.org/training-and-certification/isa-certification/isa99iec-62443/isa99iec-62443-certificate-program-requirements
 
 
