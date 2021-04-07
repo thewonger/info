@@ -60,4 +60,10 @@ https://www.isa.org/training-and-certification/isa-certification/isa99iec-62443/
 
 https://github.com/hslatman/awesome-industrial-control-system-security
 
+## DNS
+
+https://www.ncsc.gov.uk/information/pdns
+
+https://media.defense.gov/2021/Mar/03/2002593055/-1/-1/0/CSI_PROTECTIVE%20DNS_UOO117652-21.PDF
+
 
