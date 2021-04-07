@@ -58,4 +58,6 @@ https://www.giac.org/certification/global-industrial-cyber-security-professional
 
 https://www.isa.org/training-and-certification/isa-certification/isa99iec-62443/isa99iec-62443-certificate-program-requirements
 
+https://github.com/hslatman/awesome-industrial-control-system-security
+
 
